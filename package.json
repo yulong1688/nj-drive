@@ -1,0 +1,13 @@
+{
+  "name": "nj-drive",
+  "version": "1.1.0",
+  "private": true,
+  "description": "中英双语新泽西驾考 PWA：模拟考试、全题练习、自动错题本与即时解析",
+  "scripts": {
+    "start": "node serve.mjs",
+    "test": "node --test core.test.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

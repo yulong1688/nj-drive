@@ -1,0 +1,25 @@
+{
+  "name": "NJ Drive 新泽西驾考练习",
+  "short_name": "NJ Drive",
+  "lang": "zh-CN",
+  "description": "中英双语新泽西驾驶知识练习、模拟考试、自动错题本",
+  "start_url": "./#home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f6",
+  "theme_color": "#183e42",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
